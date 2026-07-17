@@ -1,0 +1,8 @@
+{
+    "rewrite": [
+        {
+            "source": "/",
+            "destination": "/cloudpilot-ai.html"
+        }
+    ]
+}
